@@ -111,5 +111,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-For any questions or feedback, please contact [subrahmanyeswaraokarri@gmail.com@example.com].
+For any questions or feedback, please contact subrahmanyeswaraokarri@gmail.com.
 
