@@ -1,5 +1,5 @@
 # Tic-Tac-Toe---Classical-RL---IIITB-Assignment
-
+# Subrahmanyeswarao Karri 
 One of the most popular and enduring games of all time is Tic-Tac-Toe. Because of its familiarity, this game is often used as a starting example to mathematically 
 analyze a decision-making process. Its brevity makes it a perfect game to illustrate the rewards of thinking ahead and learning the consequence of each decision.
 There are many variants of Tic-Tac-Toe. The most classic one is of X’s and O’s, where each player aims to place three of their marks in a horizontal, vertical, or 
