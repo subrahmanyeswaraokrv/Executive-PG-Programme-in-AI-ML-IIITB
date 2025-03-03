@@ -3,7 +3,7 @@
 Vehicle damage detection uses machine learning algorithms to automatically detect a vehicle's exterior body and assess its injuries and the extent of the damage. Damages to the car are identified not only for insurance purposes but also for repair cost estimation, using computer vision and imaging processing tools.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64821137/211778165-64c6d631-397b-40b8-8a59-ed6216a94456.png" />
+  <img src="https://images.upgrad.com/9ea67965-04e4-463e-819a-13cff5f8d84f-DL-Case_Study.PNG" />
 </p>
 
 ## Mask R-CNN Model
