@@ -48,7 +48,7 @@ Mask R-CNN, extends Faster R-CNN by adding a branch for predicting an object mas
 ## Prediction
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/64821137/211778165-64c6d631-397b-40b8-8a59-ed6216a94456.png" />
+    <img src="https://images.upgrad.com/9ea67965-04e4-463e-819a-13cff5f8d84f-DL-Case_Study.PNG" />
     <img src="https://user-images.githubusercontent.com/64821137/211796529-cbe82be2-85ad-42fe-85c7-a1680d29c0b7.png" />
 </p>
 
