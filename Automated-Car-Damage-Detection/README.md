@@ -37,7 +37,7 @@ Mask R-CNN, extends Faster R-CNN by adding a branch for predicting an object mas
 * **Masked Region based CNN(Mask R-CNN)**:
   1. Identifying pixel-wise delineation for object class of our interest, BB based Object detection (uses ROI align to allow the pixel to pixel preserve of ROIs and prevent information loss), Semantic segmentation - segmenting individual objects at pixel within a scene, irrespective of the shapes (pixel-wise classification) (pixel-wise shading of the class of interest)
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/64821137/211784129-bea4cde3-230d-4afc-b082-5da5ae64c6a3.png" />
+    <img src="https://images.upgrad.com/9ea67965-04e4-463e-819a-13cff5f8d84f-DL-Case_Study.PNG" />
   </p>
   
 * **Loss at each phase**
